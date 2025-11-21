@@ -1,0 +1,74 @@
+What is IDN?
+
+IdentityNow = A cloud system that manages and controls access for all employees.
+
+  “IdentityNow is a cloud-based SaaS Identity Governance and Administration (IGA) platform 
+   that manages user identities, automates provisioning, and ensures secure access across applications.”
+
+✅ IdentityNow (IDN) is a cloud-based SaaS.
+
+Here’s the simplest meaning:
+
+Cloud-based → It runs on the cloud (no servers needed).
+
+SaaS (Software as a Service) → You just use it like a service; SailPoint manages all backend, servers, upgrades, patches.
+
+📌 So IDN = Cloud-based SaaS platform for
+
+Managing user identities
+
+Managing access
+
+Automated provisioning
+
+Governance (reviews, certifications)
+
+
+
+Identity Governance and Administration (IGA)
+✅ IGA = Identity Governance + Identity Administration
+It is a complete system used by companies to manage user identities and control access safely.
+
+1️⃣ Identity Administration (IA) – Operational Work
+This is day-to-day identity management, like:
+
+
+Creating user accounts
+
+Updating user details
+
+Assigning access
+
+Removing access
+
+Password resets
+
+
+Example:
+New employee joins → system creates AD account + email.
+
+2️⃣ Identity Governance (IG) – Control & Compliance
+This ensures access is correct, safe, and audited, like:
+
+
+Approvals
+
+
+Access reviews
+
+
+Certifications
+
+
+Policy checks (SoD)
+
+
+Removing unnecessary access
+
+
+Example:
+Manager reviews who has access to Salesforce and removes extra access.
+
+In simple words:
+IGA = Managing accounts + Making sure access is correct.
+
